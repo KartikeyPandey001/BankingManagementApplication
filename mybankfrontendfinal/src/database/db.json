@@ -1,0 +1,15 @@
+{"users":[
+    {   "id":"2",
+    "firstName": "ang1",
+    "lastName": "sonav1",
+    "email": "anga@gmail.com",
+    "adhareNumber": "123456789000",
+    "password": "asd@12345",
+    "profilePassword": "asd@12345",
+    "role": "CUSTOMER",
+    "securityQuestion": "what is your pet name",
+    "securityAnswer": "dog",
+    "city": "pune"
+}
+]
+} 

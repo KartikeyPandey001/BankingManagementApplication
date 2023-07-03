@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.app.Demo21ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.303 s <<< FAILURE! - in com.app.Demo21ApplicationTests
+com.app.Demo21ApplicationTests  Time elapsed: 0.299 s  <<< ERROR!
+java.lang.IllegalStateException: Configuration error: found multiple declarations of @BootstrapWith for test class [com.app.Demo21ApplicationTests]: [@org.springframework.test.context.BootstrapWith(value=org.springframework.boot.test.context.SpringBootTestContextBootstrapper.class), @org.springframework.test.context.BootstrapWith(value=org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTestContextBootstrapper.class)]
+

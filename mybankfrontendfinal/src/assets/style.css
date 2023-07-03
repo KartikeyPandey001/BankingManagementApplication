@@ -1,0 +1,16 @@
+.HeadStyle
+{background-color: aquamarine;
+    height: 100px;
+    width: 100%;
+}
+
+.FootStyle
+{background-color: rgb(157, 255, 127);
+    height: 100px;
+    width: 100%;
+}
+.divsize
+{
+    width: 600px;
+    
+}
